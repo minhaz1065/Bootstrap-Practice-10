@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(235, 230, 230);
+}
+.logo{
+    width: 8%;
+}
+.players{
+    width: 15%;
+}
+#player-box{
+    margin-top: 100px;
+    background-color: white;
+}
+#course-box{
+    margin-top: 20px;
+    background-color: white;
+}
+
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
